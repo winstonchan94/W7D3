@@ -1,0 +1,25 @@
+html, body, div, span, applet, object, iframe	/Users/appacademy/Desktop/W7D3/pokedex/app/assets/stylesheets/reset.css	/^html, body, div, span, applet, object, iframe,$/;"	function	line:1
+h1, h2, h3, h4, h5, h6, p, blockquote, pre	/Users/appacademy/Desktop/W7D3/pokedex/app/assets/stylesheets/reset.css	/^h1, h2, h3, h4, h5, h6, p, blockquote, pre,$/;"	function	line:2
+a, abbr, acronym, address, big, cite, code	/Users/appacademy/Desktop/W7D3/pokedex/app/assets/stylesheets/reset.css	/^a, abbr, acronym, address, big, cite, code,$/;"	function	line:3
+del, dfn, em, img, ins, kbd, q, s, samp	/Users/appacademy/Desktop/W7D3/pokedex/app/assets/stylesheets/reset.css	/^del, dfn, em, img, ins, kbd, q, s, samp,$/;"	function	line:4
+small, strike, strong, sub, sup, tt, var	/Users/appacademy/Desktop/W7D3/pokedex/app/assets/stylesheets/reset.css	/^small, strike, strong, sub, sup, tt, var,$/;"	function	line:5
+b, u, i, center	/Users/appacademy/Desktop/W7D3/pokedex/app/assets/stylesheets/reset.css	/^b, u, i, center,$/;"	function	line:6
+dl, dt, dd, ol, ul, li	/Users/appacademy/Desktop/W7D3/pokedex/app/assets/stylesheets/reset.css	/^dl, dt, dd, ol, ul, li,$/;"	function	line:7
+fieldset, form, label, legend	/Users/appacademy/Desktop/W7D3/pokedex/app/assets/stylesheets/reset.css	/^fieldset, form, label, legend,$/;"	function	line:8
+table, caption, tbody, tfoot, thead, tr, th, td	/Users/appacademy/Desktop/W7D3/pokedex/app/assets/stylesheets/reset.css	/^table, caption, tbody, tfoot, thead, tr, th, td,$/;"	function	line:9
+article, aside, canvas, details, embed	/Users/appacademy/Desktop/W7D3/pokedex/app/assets/stylesheets/reset.css	/^article, aside, canvas, details, embed,$/;"	function	line:10
+figure, figcaption, footer, header, hgroup	/Users/appacademy/Desktop/W7D3/pokedex/app/assets/stylesheets/reset.css	/^figure, figcaption, footer, header, hgroup,$/;"	function	line:11
+menu, nav, output, ruby, section, summary	/Users/appacademy/Desktop/W7D3/pokedex/app/assets/stylesheets/reset.css	/^menu, nav, output, ruby, section, summary,$/;"	function	line:12
+time, mark, audio, video	/Users/appacademy/Desktop/W7D3/pokedex/app/assets/stylesheets/reset.css	/^time, mark, audio, video {$/;"	function	line:13
+article, aside, details, figcaption, figure	/Users/appacademy/Desktop/W7D3/pokedex/app/assets/stylesheets/reset.css	/^article, aside, details, figcaption, figure,$/;"	function	line:22
+footer, header, hgroup, menu, nav, section	/Users/appacademy/Desktop/W7D3/pokedex/app/assets/stylesheets/reset.css	/^footer, header, hgroup, menu, nav, section {$/;"	function	line:23
+body	/Users/appacademy/Desktop/W7D3/pokedex/app/assets/stylesheets/reset.css	/^body {$/;"	function	line:26
+ol, ul	/Users/appacademy/Desktop/W7D3/pokedex/app/assets/stylesheets/reset.css	/^ol, ul {$/;"	function	line:29
+blockquote, q	/Users/appacademy/Desktop/W7D3/pokedex/app/assets/stylesheets/reset.css	/^blockquote, q {$/;"	function	line:32
+blockquote:before, blockquote:after	/Users/appacademy/Desktop/W7D3/pokedex/app/assets/stylesheets/reset.css	/^blockquote:before, blockquote:after,$/;"	function	line:35
+q:before, q:after	/Users/appacademy/Desktop/W7D3/pokedex/app/assets/stylesheets/reset.css	/^q:before, q:after {$/;"	function	line:36
+table	/Users/appacademy/Desktop/W7D3/pokedex/app/assets/stylesheets/reset.css	/^table {$/;"	function	line:40
+img	/Users/appacademy/Desktop/W7D3/pokedex/app/assets/stylesheets/reset.css	/^img {$/;"	function	line:45
+.pokemon-list ul	/Users/appacademy/Desktop/W7D3/pokedex/app/assets/stylesheets/reset.css	/^.pokemon-list ul {$/;"	function	line:50
+.pokemon-list li	/Users/appacademy/Desktop/W7D3/pokedex/app/assets/stylesheets/reset.css	/^.pokemon-list li {$/;"	function	line:56
+.pokemon-list strong	/Users/appacademy/Desktop/W7D3/pokedex/app/assets/stylesheets/reset.css	/^.pokemon-list strong {$/;"	function	line:65
