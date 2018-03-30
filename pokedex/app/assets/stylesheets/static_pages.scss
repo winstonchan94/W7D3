@@ -1,3 +1,53 @@
 // Place all the styles related to the StaticPages controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+img {
+	width: 20px;
+	height: 20px;
+}
+
+.pokemon-list ul {
+	font-size: 18px;
+	/* display: flex; */
+  /* flex-wrap: wrap; */
+}
+
+.pokemon-list li {
+	width: 200px;
+	/* display: flex; */
+	/* flex-direction: column; */
+	padding: 5px 10px;
+	border-top: 1px solid black;
+	align-items: center;
+}
+
+.pokemon-list strong {
+	padding: 5px;
+	margin-bottom: 5px;
+}
+
+.details li {
+  padding: 10px 17px;
+}
+
+.poke-pic {
+	width: 300px;
+	height: 300px;
+}
+
+.item-img img {
+	width: 100px;
+	height: 100px;
+}
+
+.main {
+  display: flex;
+  flex-direction: row;
+  font-size: 18px;
+  text-align: center;
+}
+
+.item-img {
+  display: flex;
+  flex-direction: row;
+}

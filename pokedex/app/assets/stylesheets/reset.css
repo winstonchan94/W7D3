@@ -41,28 +41,3 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
-
-img {
-	width: 20px;
-	height: 20px;
-}
-
-.pokemon-list ul {
-	font-size: 18px;
-	/* display: flex; */
-  /* flex-wrap: wrap; */
-}
-
-.pokemon-list li {
-	width: 200px;
-	/* display: flex; */
-	/* flex-direction: column; */
-	padding: 5px 10px;
-	border-top: 1px solid black;
-	align-items: center;
-}
-
-.pokemon-list strong {
-	padding: 5px;
-	margin-bottom: 5px;
-}
